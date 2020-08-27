@@ -1,4 +1,7 @@
 # SAUVC_2019
+
+The Singapore AUV competition (SAUVC) is an annual student underwater robotics competition organized by IEEE Oceanic Engineering Society and supported by National University of Singapore.
+
 <center>
 <img src="./media/SAUVC Day 4 - 104.JPG" alt="Drawing"/>
 </center>
